@@ -1,4 +1,4 @@
-###LinkedIn Clone
+### LinkedIn Clone
 Created with React, Redux, Firebase Authentication, Firebase Hosting, and Firebase Database.
 
 To access LinkedIn Clone, go to: https://linkedin-clone-aaf95.web.app/
