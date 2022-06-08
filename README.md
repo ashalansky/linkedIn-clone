@@ -1,3 +1,14 @@
+###LinkedIn Clone
+Created with React, Redux, Firebase Authentication, Firebase Hosting, and Firebase Database.
+
+To access LinkedIn Clone, go to: https://linkedin-clone-aaf95.web.app/
+
+-To login as a new user, first create an account. You will need a photoURL to enter so you can use this one -> https://cdn.forbes.co/2020/08/https___hypebeast.com_image_2017_10_profoto-story-behind-albert-watson-steve-jobs-portrait-video-tw-1000x600.jpg
+-To logout, just press the "Me" icon on the top right.
+
+
+Main functionality is to be able to make a post. Liking, sharing, opening news articles, and accessing other pages that could be navigated to through the navigation are not accessible/built.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
