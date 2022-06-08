@@ -4,6 +4,7 @@ Created with React, Redux, Firebase Authentication, Firebase Hosting, and Fireba
 To access LinkedIn Clone, go to: https://linkedin-clone-aaf95.web.app/
 
 -To login as a new user, first create an account. You will need a photoURL to enter so you can use this one -> https://cdn.forbes.co/2020/08/https___hypebeast.com_image_2017_10_profoto-story-behind-albert-watson-steve-jobs-portrait-video-tw-1000x600.jpg
+
 -To logout, just press the "Me" icon on the top right.
 
 
